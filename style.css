@@ -23,4 +23,16 @@ body {
 .card-2{
     background: hsl(217, 19%, 35%);
     color: #fff;
+    border-radius: 10px;
+}
+.card-3{
+    background: hsl(0, 0%, 100%);
+    color: #222;
+    border-radius: 10px;
+}
+.card-4{
+    background: black;
+    color: #fff;
+    grid-column: 2/4;
+    border-radius: 10px;
 }
