@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Barlow+Semi+Condensed:wght@500;600&display=swap');
+
+body {
+    font-size: 13px;
+    background: hsl(210, 46%, 95%);
+}
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: 'Barlow Semi Condensed', sans-serif;
+}
+.card-1{
+    background-color: hsl(260, 83%, 33%);
+    
+}
