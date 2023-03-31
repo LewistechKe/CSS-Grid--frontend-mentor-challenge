@@ -66,3 +66,10 @@ h2{
     /* display: flex; */
     margin-left: 5px;
 }
+.grid{
+    display: grid;
+    grid-template-columns: repeat(4,0.8fr);
+    grid-gap: 20px;
+    grid-template-rows: repeat(2,3fr);
+    max-width: 1150px;
+}
